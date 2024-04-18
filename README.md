@@ -34,7 +34,7 @@ git clone https://github.com/seu_usuario/gridpics.git
 
 ## Autor
 
-Este projeto foi desenvolvido por [Seu Nome](https://github.com/seu_usuario).
+Este projeto foi desenvolvido por [Erick Marchini](https://github.com/marchinimen).
 
 ## Licença
 
